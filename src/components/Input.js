@@ -14,5 +14,5 @@ Input.propTypes = {
 }
 
 Input.defaultProps = {
-  value: 'hello world',
+  value: 'hello world ljs',
 }
